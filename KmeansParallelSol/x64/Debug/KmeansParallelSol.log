@@ -1,0 +1,38 @@
+﻿cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  cluster.cpp
+  MPI_Kmeans.cpp
+  KmeansParallel.cpp
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(28): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(29): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(30): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(31): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(39): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(43): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(80): warning C4101: 'j': unreferenced local variable
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(98): warning C4101: 'offset': unreferenced local variable
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(98): warning C4101: 'threadID': unreferenced local variable
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(99): warning C4101: 'temp': unreferenced local variable
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(162): warning C4101: 'minDistance': unreferenced local variable
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(162): warning C4101: 'distanceTemp': unreferenced local variable
+d:\kmeansparallelsol\kmeansparallelsol\kmeansparallel.cpp(161): warning C4101: 'j': unreferenced local variable
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  KmeansParallelSol.vcxproj -> D:\KmeansParallelSol\x64\Debug\KmeansParallelSol.exe
+  KmeansParallelSol.vcxproj -> D:\KmeansParallelSol\x64\Debug\KmeansParallelSol.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "D:\KmeansParallelSol\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.
